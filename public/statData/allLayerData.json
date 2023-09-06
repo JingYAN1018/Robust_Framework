@@ -1,0 +1,36 @@
+[{
+    "dataset_name": "flowers",
+    "model_name": "Resnet18",
+    "results":[57.73,38.98,36.40]
+},
+{
+    "dataset_name": "pets",
+    "model_name": "Resnet18",
+    "results":[69.80,44.46,41.98]
+},
+{
+    "dataset_name": "nico",
+    "model_name": "Resnet18",
+    "results":[73.09,48.79,47.69]
+},
+{
+    "dataset_name": "cars",
+    "model_name": "Resnet18",
+    "results":[47.53,38.70,33.69]
+},
+{
+    "dataset_name": "food",
+    "model_name": "Resnet18",
+    "results":[39.89,35.40,32.97]
+},
+{
+    "dataset_name": "CIFAR10",
+    "model_name": "Resnet18",
+    "results":[41.38,37.80,35.63]
+},
+{
+    "dataset_name": "alphabet",
+    "model_name": "Resnet18",
+    "results":[38.02,48.09,35.88]
+}
+]

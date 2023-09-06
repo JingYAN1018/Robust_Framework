@@ -1,0 +1,27 @@
+[
+    {
+        "dataset_name": "flowers",
+        "model_name": "Resnet18",
+        "results":{
+            "noPretrained":[67,71.2,77.8,63.9,56,51.9,48.5,62.1,64.3],
+            "partFinetuned":[88.5,74.1,60.9,50.2,31,26.9,18.8,9.4,3.1],
+            "allFinetuned":[97.6,83.2,71.3,59,46,31,24,16.6,9.9]
+        }
+    },{
+        "dataset_name": "cars",
+        "model_name": "Resnet18",
+        "results":{
+            "noPretrained":[54,67.2,72.8,68.9,56,51.9,48.5,62.1,64.3],
+            "partFinetuned":[84.5,78.1,70.9,60.2,48.7,33.4,21.9,12.4,8.6],
+            "allFinetuned":[96.8,88.2,76.3,62.4,66,54,39,26,15.6]
+        }
+    },{
+        "dataset_name": "nico",
+        "model_name": "Resnet18",
+        "results":{
+            "noPretrained":[59.6,63.2,68.2,72.6,65,58.9,66.5,68.1,72.3],
+            "partFinetuned":[84.5,78.1,70.9,60.2,48.7,33.4,21.9,16.7,10.6],
+            "allFinetuned":[96.8,88.2,81,76.3,66,54,39,26,15.6]
+        }
+    }
+]

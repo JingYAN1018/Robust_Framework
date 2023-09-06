@@ -1,0 +1,71 @@
+[
+   
+    {
+        "dataset_name": "flowers",
+        "model_name": "Resnet18",
+        "results":{
+            "Original_Inputs":[61.29,87.98,91.98],
+            "Adversarial_Inputs":[55.96,8.23,27.86],
+            "Decline_Ratio":[8.69,90.64,69.71]
+
+        }
+    },
+    {
+        "dataset_name": "pets",
+        "model_name": "Resnet18",
+        "results":{
+            "Original_Inputs":[60.62,86.45,89.78],
+            "Adversarial_Inputs":[40.23,3.38,15.7],
+            "Decline_Ratio":[33.63,96.09,82.51]
+        }
+    },
+    {
+        "dataset_name": "nico",
+        "model_name": "Resnet18",
+        "results":{
+            "Original_Inputs":[81.29,91.03,94.27],
+            "Adversarial_Inputs":[53.45,10.34,28.33],
+            "Decline_Ratio":[34.24,88.64,69.95]
+        }
+       
+    },
+    {
+        "dataset_name": "cars",
+        "model_name": "Resnet18",
+        "results":{
+            "Original_Inputs":[74.54,41.90,81.25],
+            "Adversarial_Inputs":[53.61,0.12,18.57],
+            "Decline_Ratio":[8.69,99.76, 77.14]
+        }
+        
+    },
+    {
+        "dataset_name": "food",
+        "model_name": "Resnet18",
+        "results":{
+            "Original_Inputs":[74.52,58.59,78.93],
+            "Adversarial_Inputs":[28.24,0.74,22.30],
+            "Decline_Ratio":[62.10,98.73,71.74]
+        }
+    },
+    {
+        "dataset_name": "CIFAR10",
+        "model_name": "Resnet18",
+        "results":{
+            "Original_Inputs":[95.44,78.48,95.54],
+            "Adversarial_Inputs":[57.33,0.00,1.34],
+            "Decline_Ratio":[39.93,100.00, 98.59]
+        }
+    },
+    {
+        "dataset_name": "alphabet",
+        "model_name": "Resnet18",
+        "results":{
+            "Original_Inputs":[100.00,59.60,99.94],
+            "Adversarial_Inputs":[99.92,0.00,2.90],
+            "Decline_Ratio":[0.06,100.00,97.10]
+        }
+       
+    }
+    
+]

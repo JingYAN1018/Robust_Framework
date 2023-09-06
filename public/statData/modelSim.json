@@ -1,0 +1,63 @@
+[
+   
+    {
+        "dataset_name": "flowers",
+        "model_name": "Resnet18",
+        "results":{
+            "Bottom_layer_feature":[87.06,54.2,51.98],
+            "All_layer_feature":[57.73,38.98,36.40]
+        }
+    },
+    {
+        "dataset_name": "pets",
+        "model_name": "Resnet18",
+        "results":{
+            "Bottom_layer_feature":[86, 57.23, 55.06],
+            "All_layer_feature":[69.80,44.46,41.98]
+        }
+    },
+    {
+        "dataset_name": "nico",
+        "model_name": "Resnet18",
+        "results":{
+            "Bottom_layer_feature":[89.06,55.09,52.66],
+            "All_layer_feature":[73.09,48.79,47.69]
+        }
+       
+    },
+    {
+        "dataset_name": "cars",
+        "model_name": "Resnet18",
+        "results":{
+            "Bottom_layer_feature":[88.93,60.08,58.40],
+            "All_layer_feature":[47.53,38.70,33.69]
+        }
+        
+    },
+    {
+        "dataset_name": "food",
+        "model_name": "Resnet18",
+        "results":{
+            "Bottom_layer_feature":[86.94,70.08,68.93],
+            "All_layer_feature":[39.89,35.40,32.97]
+        }
+    },
+    {
+        "dataset_name": "CIFAR10",
+        "model_name": "Resnet18",
+        "results":{
+            "Bottom_layer_feature":[72.89,66.90,62.58],
+            "All_layer_feature":[41.38,37.80,35.63]
+        }
+    },
+    {
+        "dataset_name": "alphabet",
+        "model_name": "Resnet18",
+        "results":{
+            "Bottom_layer_feature":[73.02,55.60,53.43],
+            "All_layer_feature":[38.02,48.09,35.88]
+        }
+       
+    }
+    
+]
