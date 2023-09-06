@@ -1,5 +1,10 @@
 # robust_framework
 
+## design of framework
+
+![图 3迁移学习中模型鲁棒性变化的可视分析视图](https://github.com/JingYAN1018/Robust_Framework/assets/33095615/794058c9-ebb5-4e83-9cff-fdda098965e7)
+
+
 ## Project setup
 ```
 npm install
